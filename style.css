@@ -1,0 +1,18 @@
+.all-js{
+    background-color: rgb(179, 241, 88);
+    padding: 20px;
+}
+#text{
+    padding: 6px;
+    border: none;
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}
+
+#submit{
+    padding: 6px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+
